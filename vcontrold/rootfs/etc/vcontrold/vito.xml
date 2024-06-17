@@ -1005,7 +1005,7 @@
     </command>   
     <!--  Betriebsart set  -->
     <command name="setBetriebArtM1" protocmd="setaddr">
-      <addr>2301</addr>
+      <addr>2323</addr>
       <len>1</len>
       <unit>BA</unit>
       <description>Setze Betriebsart M1</description>
